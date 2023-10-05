@@ -4,7 +4,7 @@ anyone can inscribe any tick transfer inscription for any address without approv
 
 ## how to run
 
-``` npm run install ```
+``` npm install ```
 
 ``` 
 config params in config.js
