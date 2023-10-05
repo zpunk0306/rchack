@@ -1,6 +1,6 @@
 # rchack
 
-anyone can inscribe and tick transfer utxo for to any address that's a big problem for drc20, people should know about this.
+anyone can inscribe any tick transfer inscription for any address without approved, that's a big problem for drc20, people should know about this.
 
 ## how to run
 
