@@ -1,0 +1,20 @@
+{
+  "name": "drc20_hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bignumber.js": "^9.1.2",
+    "bip39": "^3.1.0",
+    "bitcore-lib-doge": "^10.0.11",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8"
+  }
+}
